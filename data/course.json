@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Metallurgical Engineering"
+    ]
+  ],
+  "legacy_uid": "68028e76-f3ac-fe27-6eb7-50ba7d8205a3",
+  "instructors": {
+    "content": [
+      "87d2349e-d725-cdc6-fb90-9770e35bd92e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c71ff632-825c-10a3-cf0a-2fb6e8d0ba35",
+    "website": "3-40j-physical-metallurgy-fall-2009"
+  },
+  "course_title": "Physical Metallurgy",
+  "hide_download": true,
+  "course_description": "The central point of this course is to provide a physical basis that links the structure of materials with their properties, focusing primarily on metals. With this understanding in hand, the concepts of alloy design and microstructural engineering are also discussed, linking processing and thermodynamics to the structure and properties of metals.\n",
+  "department_numbers": [
+    "3",
+    "22"
+  ],
+  "extra_course_numbers": "22.71J,3.14",
+  "primary_course_number": "3.40J",
+  "course_image_thumbnail": {
+    "content": "62754dbb-7fce-75a5-32ac-24e210ccb581",
+    "website": "3-40j-physical-metallurgy-fall-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "a7cb2d3f-a946-499e-a824-fba32ab294a4",
+  "site_short_id": "3.40j-fall-2009",
+  "site_url_path": "courses/3-40j-physical-metallurgy-fall-2009",
+  "title": "Course Metadata"
+}
